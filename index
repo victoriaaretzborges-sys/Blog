@@ -17,6 +17,7 @@ DOCTYPE html>
          { background-color: #FFFFFF; color: #183C63; display: flex; } i
          mg { width: 80px; height: 80px; } 
          p {font-weight: bold;}
+     <button>❤️<span>0</span></button>
      </style> 
     <header>
      <img src="imagem-blog (3).png" alt="imagem de livros com simbolos de tecnologia"> 
