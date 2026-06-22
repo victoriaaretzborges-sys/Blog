@@ -26,7 +26,7 @@ DOCTYPE html>
             
          <main> 
         <div> <h2>Meu primeiro post</h2> 
-        <p>Por: victoria borges</p>
+        <pclass>Por: victoria borges</p>
          <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p> 
       </div>
     
